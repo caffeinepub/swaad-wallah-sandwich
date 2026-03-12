@@ -15,7 +15,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 /* ── Constants ── */
 const BUSINESS_NAME = "Swaad Wallah Sandwich";
 const OWNER_NAME = "Kunall_nagarrr";
-const ADDRESS = "Prabhat Chauraha, Bhopal, MP";
+const ADDRESS = "Indrapuri Sector C, Bhopal, MP";
 const PHONE = "9303526637";
 const INSTAGRAM = "@Swaad_Wallah_Sandwich";
 const HOURS = "11:00 AM – 11:00 PM (Daily)";
